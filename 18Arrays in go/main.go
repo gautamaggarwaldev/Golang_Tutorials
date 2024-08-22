@@ -23,4 +23,7 @@ func main() {
 
 	var arr4 = [...] string {"gautam", "hello", "garima", "govil", "aggarwal"}
 	fmt.Println(arr4)
+
+	var array = [...]int {7,8,96,41,23,4};
+	fmt.Println(array);
 }
